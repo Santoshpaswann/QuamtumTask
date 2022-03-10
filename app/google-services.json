@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000476488559",
+    "project_id": "quamtumtask",
+    "storage_bucket": "quamtumtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000476488559:android:20893ae9d12f5c99d0ae9a",
+        "android_client_info": {
+          "package_name": "com.example.quamtumtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000476488559-e4q8qmtvcde92tabhq3oufj81u09fmrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quamtumtask",
+            "certificate_hash": "86f300289b16272bcc4619adfa22b83ef2dd5b55"
+          }
+        },
+        {
+          "client_id": "1000476488559-371q4975o5edeulrbkouc26t2mk86g6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6UnvIUDhGXFJlEZLOVWOkC0pzxRiP7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000476488559-371q4975o5edeulrbkouc26t2mk86g6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
